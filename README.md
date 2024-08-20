@@ -64,8 +64,8 @@ input ***4*** and hit enter exit the code
 
 
 2. adjust line72 (wordlist) with the greeting your like. It will randomly pick one from the greeting list and send to each person.
-3. 
-4. adjust line77 the number "16" in range(1, 16) to send the numbers of greeting you want to send for each run.
+   
+3. adjust line77 the number "16" in range(1, 16) to send the numbers of greeting you want to send for each run.
 
         code snapshot:
    
