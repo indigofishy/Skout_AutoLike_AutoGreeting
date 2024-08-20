@@ -5,6 +5,8 @@ Require a PC system, a source-code editor (eg.VSCODE) and pip selenium installed
 
 Please make amendments to the code as per your need.
 
+last update on 20 Aug 2024
+
 # 1. Objectives This script serves 3 main objectives:
 This script serves 3 main objectives:
 
