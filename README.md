@@ -5,6 +5,8 @@ Require a PC system, a source-code editor (eg.VSCODE), pip selenium installed an
 
 Please make amendments to the code as per your need.
 
+Happy dating!
+
 last update on 20 Aug 2024
 
 # 1. Objectives:
